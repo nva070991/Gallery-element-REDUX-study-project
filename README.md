@@ -6,8 +6,13 @@
 Технологии:
 
 JavaScript;
+
 REACT;
+
 REDUX;
+
 Hooks: UseState, UseEffect;
+
 Functional component;
+
 Axios;
