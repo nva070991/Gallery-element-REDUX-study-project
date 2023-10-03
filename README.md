@@ -11,6 +11,8 @@ REACT;
 
 REDUX;
 
+REDUX Thunk;
+
 Hooks: UseState, UseEffect;
 
 Functional component;
